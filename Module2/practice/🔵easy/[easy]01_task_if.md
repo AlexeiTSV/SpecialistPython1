@@ -17,7 +17,12 @@
 ```python
 # TODO: you code here...
 ```
+n = int(input())
 
+if n%3 == 0 or n%5 == 0:
+    print('yes')
+else:
+    print('no')
 ---
 
 ### Данные для самопроверки
